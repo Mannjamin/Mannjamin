@@ -1,4 +1,4 @@
-### Hi there, I'm Ashley Mann - aka Mannjamin 👋
+# Hi there, I'm Ashley Mann - aka Mannjamin 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ash_Logic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAsh_Logic&screen_name=Ash_Logic)
@@ -66,6 +66,7 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
     <!--START_SECTION:activity-->
+    
 </details>
 
 <details>
