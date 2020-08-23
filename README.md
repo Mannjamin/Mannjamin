@@ -58,7 +58,7 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mannjamin&show_icons=true&hide_border=true" />
-  <img align="right" alt="Mannjamin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannjamin&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mannjamin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannamin&layout=compact&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://google.com
