@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a Doctorate in Computer Science!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Aquire new skills and become a better developer!
-- ⚡ Fun fact: I am a collector of Syntesizers and love using them to make music!
+- ⚡ Fun fact: I am a collector of Synthesizers and love using them to make music!
 
 ---
 
