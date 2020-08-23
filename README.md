@@ -58,8 +58,10 @@ b
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mannjamin&show_icons=true&hide_border=true" />
-  [![Mannjamin's github stats](https://github-readme-stats.vercel.app/api?username=Mannjamin)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://google.com
 [twitter]: https://twitter.com/Ash_Logic
