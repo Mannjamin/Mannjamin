@@ -62,20 +62,9 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-    <!--START_SECTION:activity-->
-    
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.mannjamin.vercel.app/api?username=Mannjamin&show_icons=true&hide_border=true" />
-
-  <img align="left" alt="Mannjamin's Most Used Languages" src="https://github-readme-stats.mannjamin.vercel.app/api/top-langs/?username=Mannjamin&layout=compact&show_icons=true&hide_border=true" />
-</details>
+### GitHub Statistics:
+<img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.mannjamin.vercel.app/api?username=Mannjamin&show_icons=true&hide_border=true" />
+<img align="left" alt="Mannjamin's Most Used Languages" src="https://github-readme-stats.mannjamin.vercel.app/api/top-langs/?username=Mannjamin&layout=compact&show_icons=true&hide_border=true" />
 
 [website]: https://google.com
 [twitter]: https://twitter.com/Ash_Logic
