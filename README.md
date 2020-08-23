@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mannjamin Spotify Playing" width="350" />](https://open.spotify.com/user/ulokpi06dmi8i7ikplwrwhjgr)
-b
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -57,7 +57,7 @@ b
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MannjaminS&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mannjamin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mannjamin&show_icons=true&hide_border=true" />
 
 </details>
 
