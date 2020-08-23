@@ -15,7 +15,7 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-mannjamin.vercel.app/api/spotify-playing" alt="Mannjamin Spotify Playing" width="350" />](https://open.spotify.com/user/ulokpi06dmi8i7ikplwrwhjgr)
+[<img src="https://spotify-readme.mannjamin.vercel.app/api/spotify-playing" alt="Mannjamin Spotify Playing" width="350" />](https://open.spotify.com/user/ulokpi06dmi8i7ikplwrwhjgr)
 
 ---
 
