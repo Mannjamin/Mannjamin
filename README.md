@@ -5,9 +5,9 @@
 
 ---
 
-## I'm a Doctoral Researcher, Developer & Musician!
+## I'm a Researcher, Developer & Musician!
 
-- 🔭 I’m currently working on a Doctorate in Computer Science!
+- 🔭 I’m currently researching in the field Computer Science!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Aquire new skills and become a better developer!
 - ⚡ Fun fact: I am a collector of Synthesizers and love using them to make music!
