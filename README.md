@@ -17,16 +17,6 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.mannjamin.vercel.app/api/spotify-playing" alt="Mannjamin Spotify Playing" width="350" />](https://open.spotify.com/user/ulokpi06dmi8i7ikplwrwhjgr)
 
-<!-- --- -->
-
-<!-- ### Connect with me: -->
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="Ash_Logic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="Ashley Mann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
-<br />
-<br />
-
 ---
 
 ### Languages:
@@ -57,9 +47,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<br />
-<br />
 
 ---
 ### GitHub Statistics:
