@@ -1,4 +1,4 @@
-# Hi there, I'm Mannjamin (Mann for short) 👋
+# Hi there, I'm Mann 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
